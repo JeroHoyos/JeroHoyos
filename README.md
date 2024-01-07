@@ -11,7 +11,6 @@
 ```
 ABOUT ME
 -------------------------
-## About Me
 - 💻 I am a student at the National University of Colombia.
 - 📚 Currently pursuing computer science.
 - 🌱 Passionate about Data Science and Artificial Intelligence.
