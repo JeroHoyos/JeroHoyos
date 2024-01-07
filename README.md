@@ -60,20 +60,27 @@ ABOUT ME
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
+
+<!-- Centrar el contenido del párrafo -->
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://github.com/JeroHoyos">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="[https://](https://github.com/JeroHoyos)">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
-				<img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png](https://i.pinimg.com/564x/89/0a/f1/890af13ff59d11582bc699b940d386b2.jpg)"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/JeroHoyos">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
+  <!-- Contenedor de íconos sociales con alineación centrada y margen izquierdo -->
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a target="_blank" href="ttps://github.com/JeroHoyos">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
+      <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;">
+    </a>
+    <a style="margin-left: 5px;" target="_blank" href="https://github.com/JeroHoyos">](https://github.com/JeroHoyos)
+      <img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;">
+    </a>
+
+  </div>
 
 </p>
+
 
