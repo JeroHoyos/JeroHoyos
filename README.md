@@ -11,12 +11,12 @@
 ```
 ABOUT ME
 -------------------------
-## Acerca de mí
-- 💻 Soy estudiante de la Universidad Nacional de Colombia.
-- 📚 Actualmente cursando ciencia de computación.
-- 🌱 Apasionado por la Ciencia de Datos y la Inteligencia Artificial.
-- 🔭 Trabajando en proyectos de Deep Learning y Machine Learning.
-- 🌟 Lenguajes principales: Python, SQL.
+## About Me
+- 💻 I am a student at the National University of Colombia.
+- 📚 Currently pursuing computer science.
+- 🌱 Passionate about Data Science and Artificial Intelligence.
+- 🔭 Working on neural network projects.
+- 🌟 Main languages: Python, SQL.
 
 ```
 <hr>
@@ -61,25 +61,18 @@ ABOUT ME
 <h3 align="center" >Connect with me 🤝 </h3>
 
 
-<!-- Centrar el contenido del párrafo -->
-<!-- Centrar el contenido del párrafo -->
 <p align="center">
 
-  <!-- Contenedor de íconos sociales con alineación centrada y margen izquierdo -->
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <!-- Enlace a LinkedIn -->
     <a target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;">
     </a>
-    <!-- Enlace a GitHub -->
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
-    <!-- Enlace para enviar un correo electrónico -->
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;">
     </a>
-    <!-- Enlace a tu currículum -->
     <a style="margin-left: 5px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;">
     </a>
