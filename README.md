@@ -62,25 +62,31 @@ ABOUT ME
 
 
 <!-- Centrar el contenido del párrafo -->
+<!-- Centrar el contenido del párrafo -->
 <p align="center">
 
   <!-- Contenedor de íconos sociales con alineación centrada y margen izquierdo -->
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a target="_blank" href="ttps://github.com/JeroHoyos">
+    <!-- Enlace a LinkedIn -->
+    <a target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;">
     </a>
+    <!-- Enlace a GitHub -->
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
+    <!-- Enlace para enviar un correo electrónico -->
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;">
     </a>
-    <a style="margin-left: 5px;" target="_blank" href="https://github.com/JeroHoyos">](https://github.com/JeroHoyos)
+    <!-- Enlace a tu currículum -->
+    <a style="margin-left: 5px;" target="_blank" href="https://github.com/JeroHoyos">
       <img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;">
     </a>
 
   </div>
 
 </p>
+
 
 
