@@ -13,8 +13,8 @@ ABOUT ME
 -------------------------
 - 💻 I am a student at the National University of Colombia.
 - 📚 Currently pursuing computer science.
-- 🌱 Passionate about Data Science and Artificial Intelligence.
-- 🔭 Working on neural network projects.
+- 🌱 Passionate about Data Science, Artificial Intelligence and Neuroscience.
+- 🔭 Working on Computer graphics.
 - 🌟 Main languages: Python, SQL.
 
 ```
