@@ -35,7 +35,7 @@ ABOUT ME
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
+![Matlab](https://img.shields.io/badge/MATLAB-orange)&nbsp;
 #### Libraries
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
@@ -47,7 +47,7 @@ ABOUT ME
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-
+![Godot Engine](https://img.shields.io/badge/-GODOT-05122A?.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 </td>
     <td>
 
