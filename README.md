@@ -15,7 +15,7 @@ ABOUT ME
 - 📚 Currently pursuing computer science.
 - 🌱 Passionate about Data Science, Artificial Intelligence and Neuroscience.
 - 🔭 Working on Computer graphics.
-- 🌟 Main languages: Python, SQL.
+- 🌟 Main languages: Python, Matlab, SQL.
 
 ```
 <hr>
