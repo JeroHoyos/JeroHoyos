@@ -2,19 +2,3 @@
 
 
 
-
-
-<img align="left" src="https://i.pinimg.com/564x/13/2a/95/132a95e6ec67a67dda3c60f8bcb9d688.jpg"  width="320" />
-
-<hr>
-
-```
-ABOUT ME
--------------------------
-- 💻 I am a student at the National University of Colombia.
-- 📚 Currently pursuing computer science.
-- 🌱 Passionate about Data Science, Artificial Intelligence and Neuroscience.
-- 🔭 Working on Computer graphics.
-- 🌟 Main languages: Python, Matlab, SQL.
-
-```
