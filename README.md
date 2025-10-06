@@ -18,7 +18,7 @@ I am Jerónimo Hoyos Botero
 💡 Interested in medical technologies, AI, optimization, and scientific visualization  
 🎓 Studying Computer Science at the National University of Colombia — Medellín  
 💻 Exploring data analysis and medical applications through projects  
-📊 Focused on medical image processing and computational optimization  
+📊 Focused on computational applications to medicine.
 📐 Curious about the patterns hidden in math... and cats 🐈‍⬛  
       </pre>
     </td>
