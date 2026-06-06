@@ -1,0 +1,152 @@
+<svg width="860" height="200" viewBox="0 0 860 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ── BACKGROUND ──────────────────────────────────────────────── -->
+  <rect width="860" height="200" fill="#f4f4ef"/>
+  <line x1="0" y1="0"   x2="860" y2="0"   stroke="#ddd" stroke-width="2"/>
+  <line x1="0" y1="199" x2="860" y2="199" stroke="#ddd" stroke-width="2"/>
+  <rect x="0" y="0" width="4" height="200" fill="#222"/>
+  <path d="M 820 14 L 844 14 L 844 38" stroke="#ccc" stroke-width="1.5" fill="none"/>
+
+  <!-- ── GAP WATERMARKS (x≈437–470, faint) ──────────────────────── -->
+  <text x="437" y="50"  font-family="'Courier New',Courier,monospace" font-size="9.5" fill="#dcdcda">E[B(t)]=0</text>
+  <text x="437" y="100" font-family="'Courier New',Courier,monospace" font-size="9.5" fill="#dcdcda">Var(B)=t</text>
+  <text x="440" y="153" font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#dcdcda">&#x222B;dW</text>
+
+  <!-- ── STOCHASTIC PROCESS B(t) (x: 510 → 774) ─────────────────── -->
+
+  <!-- ±2σ ENVELOPE: y = 95 ± 70·√((x-510)/264), very faint dashed -->
+  <polyline stroke="#c8c8c4" stroke-width="0.8" stroke-dasharray="4,4" fill="none"
+    points="510,95 532,75 554,66 576,60 609,52 642,46 686,38 730,31 774,25"/>
+  <polyline stroke="#c8c8c4" stroke-width="0.8" stroke-dasharray="4,4" fill="none"
+    points="510,95 532,115 554,124 576,130 609,138 642,145 686,152 730,159 774,165"/>
+
+  <!-- ±1σ ENVELOPE: y = 95 ± 35·√((x-510)/264), slightly darker dashed -->
+  <polyline stroke="#d8d8d4" stroke-width="0.8" stroke-dasharray="2,5" fill="none"
+    points="510,95 554,81 609,74 642,70 686,66 730,63 774,60"/>
+  <polyline stroke="#d8d8d4" stroke-width="0.8" stroke-dasharray="2,5" fill="none"
+    points="510,95 554,109 609,116 642,120 686,124 730,127 774,130"/>
+
+  <!-- ── 8 BROWNIAN PATHS (25 pts each, step≈11px) ─────────────── -->
+
+  <!-- A — strong upward drift, ends ≈42, faintest -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.18" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,90 532,85 543,81 554,77 565,73 576,68 587,71 598,66
+            609,63 620,66 631,63 642,59 653,56 664,58 675,54 686,51 697,54
+            708,50 719,53 730,49 741,45 752,42 763,39 774,42"/>
+
+  <!-- B — gradual upward, ends ≈66 -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.30" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,91 532,87 543,84 554,80 565,85 576,82 587,79 598,75
+            609,79 620,76 631,73 642,77 653,73 664,71 675,74 686,70 697,73
+            708,69 719,71 730,68 741,71 752,67 763,69 774,66"/>
+
+  <!-- C — slight upward with noise, ends ≈82 -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.40" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,93 532,90 543,94 554,90 565,86 576,90 587,86 598,84
+            609,88 620,84 631,87 642,83 653,86 664,83 675,87 686,83 697,87
+            708,83 719,86 730,82 741,84 752,80 763,83 774,82"/>
+
+  <!-- D — near center, drifts slightly up, ends ≈93 -->
+  <polyline stroke="#444" stroke-width="1.1" stroke-opacity="0.50" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,93 532,97 543,93 554,97 565,93 576,97 587,93 598,91
+            609,95 620,91 631,95 642,91 653,94 664,91 675,94 686,91 697,95
+            708,91 719,93 730,91 741,94 752,90 763,92 774,93"/>
+
+  <!-- E — near center, drifts slightly down, ends ≈97 — most visible -->
+  <polyline stroke="#444" stroke-width="1.2" stroke-opacity="0.55" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,97 532,94 543,98 554,94 565,98 576,95 587,100 598,96
+            609,100 620,96 631,100 642,96 653,100 664,97 675,101 686,97 697,101
+            708,97 719,99 730,97 741,100 752,97 763,100 774,97"/>
+
+  <!-- F — slight downward, ends ≈110 -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.40" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,98 532,102 543,99 554,103 565,99 576,104 587,100 598,106
+            609,102 620,107 631,104 642,109 653,105 664,110 675,106 686,112 697,107
+            708,112 719,108 730,113 741,109 752,112 763,110 774,110"/>
+
+  <!-- G — gradual downward, ends ≈132 -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.30" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,100 532,106 543,103 554,108 565,114 576,110 587,116 598,112
+            609,118 620,115 631,121 642,117 653,122 664,120 675,125 686,122 697,126
+            708,123 719,128 730,125 741,129 752,126 763,130 774,132"/>
+
+  <!-- H — strong downward drift, ends ≈155, faintest -->
+  <polyline stroke="#555" stroke-width="1" stroke-opacity="0.18" fill="none"
+    stroke-linecap="round" stroke-linejoin="round"
+    points="510,95 521,103 532,112 543,120 554,116 565,123 576,127 587,124 598,130
+            609,134 620,131 631,136 642,133 653,137 664,140 675,137 686,141 697,144
+            708,141 719,146 730,143 741,148 752,145 763,150 774,155"/>
+
+  <!-- starting point -->
+  <circle cx="510" cy="95" r="3.2" fill="#aaa" fill-opacity="0.7"/>
+  <circle cx="510" cy="95" r="1.4" fill="#555"/>
+
+  <!-- t=T separator -->
+  <line x1="774" y1="22" x2="774" y2="170" stroke="#e0e0da" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- ── VERTICAL N(0,T) DISTRIBUTION at x=774 ──────────────────── -->
+  <!-- N(μ=95, σ=35, amplitude=28): x = 774 + 28·exp(-(y-95)²/2450) -->
+
+  <!-- ±2σ fill (full distribution area) -->
+  <polygon fill="#eaeae6" stroke="none"
+    points="774,25 778,25 782,40 789,55 795,68 800,80 801,88 802,95
+            801,102 800,110 795,122 789,135 782,150 778,165 774,165"/>
+
+  <!-- ±1σ fill (darker inner region, 68% area) -->
+  <polygon fill="#ddddd9" stroke="none"
+    points="774,60 791,60 795,68 800,80 801,88 802,95
+            801,102 800,110 795,122 791,130 774,130"/>
+
+  <!-- bell curve outline -->
+  <polyline stroke="#aaa" stroke-width="1.4" fill="none" stroke-linecap="round"
+    points="778,25 782,40 789,55 795,68 800,80 801,88 802,95
+            801,102 800,110 795,122 789,135 782,150 778,165"/>
+
+  <!-- horizontal ticks at μ and ±1σ -->
+  <line x1="772" y1="95"  x2="776" y2="95"  stroke="#aaa" stroke-width="1.2"/>
+  <line x1="772" y1="60"  x2="775" y2="60"  stroke="#bbb" stroke-width="1"/>
+  <line x1="772" y1="130" x2="775" y2="130" stroke="#bbb" stroke-width="1"/>
+
+  <!-- labels: μ, +σ, −σ  — all right of the peak (x≥806) so no overlap -->
+  <text x="806" y="98"  font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#999">&#x3BC;</text>
+  <text x="806" y="57"  font-family="'Courier New',Courier,monospace" font-size="7"   fill="#bbb">+&#x3C3;</text>
+  <text x="806" y="140" font-family="'Courier New',Courier,monospace" font-size="7"   fill="#bbb">&#x2212;&#x3C3;</text>
+
+  <!-- "N(0,t)" label above bell curve, clear of border bracket -->
+  <text x="788" y="17" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#bbb" text-anchor="middle">N(0,t)</text>
+
+  <!-- "B(t)" process label, above paths start -->
+  <text x="508" y="14" font-family="'Courier New',Courier,monospace" font-size="8" fill="#ccc">B(t)</text>
+
+  <!-- time labels, below envelope, y=183 — well below any path or envelope element -->
+  <text x="510" y="184" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#bbb" text-anchor="middle">t=0</text>
+  <text x="774" y="184" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#bbb" text-anchor="middle">t=T</text>
+
+  <!-- ── LEFT TEXT ────────────────────────────────────────────────── -->
+
+  <text x="28" y="88"
+    font-family="Impact,'Arial Black',Arial,sans-serif"
+    font-size="72" fill="#111" letter-spacing="-1">JER&#xD3;NIMO</text>
+
+  <text x="30" y="130"
+    font-family="Impact,'Arial Black',Arial,sans-serif"
+    font-size="46" fill="#aaa">HOYOS BOTERO</text>
+
+  <line x1="30" y1="144" x2="432" y2="144" stroke="#ddd" stroke-width="1"/>
+
+  <text x="32" y="165"
+    font-family="Georgia,'Times New Roman',serif"
+    font-style="italic" font-size="17" fill="#666">Data Scientist &#xB7; ML Engineer</text>
+
+  <text x="32" y="188"
+    font-family="'Courier New',Courier,monospace"
+    font-size="9.5" fill="#aaa" letter-spacing="2.5">MEDELL&#xCD;N &#xB7; COLOMBIA</text>
+
+</svg>
