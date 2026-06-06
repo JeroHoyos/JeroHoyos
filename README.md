@@ -20,11 +20,11 @@ I keep up with the AI state of the art and apply **GPU-accelerated computing** w
 
 **Languages**
 
-![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=f4f4ef)
-![R](https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=f4f4ef)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=f4f4ef)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=f4f4ef)
-![Rust](https://img.shields.io/badge/RUST-111111?style=flat-square&logo=rust&logoColor=f4f4ef)
+![Python](https://img.shields.io/badge/PYTHON-ffffff?style=flat-square&logo=python&logoColor=111111)
+![R](https://img.shields.io/badge/R-ffffff?style=flat-square&logo=r&logoColor=111111)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgresql&logoColor=111111)
+![C](https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c&logoColor=111111)
+![Rust](https://img.shields.io/badge/RUST-ffffff?style=flat-square&logo=rust&logoColor=111111)
 
 **Data Science**
 
@@ -144,21 +144,3 @@ CUDA benchmarking for Krylov subspace generation. CPU vs GPU comparison with til
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroHoyos&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=050505&title_color=f4f4ef&text_color=888888&icon_color=555555)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroHoyos&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=050505&title_color=f4f4ef&text_color=888888)
-
-</div>
-
----
-
-<div align="center">
-<sub>Medellín, Colombia · obsessed with understanding problems before solving them</sub>
-</div>
-"# JeroHoyos" 
