@@ -84,7 +84,7 @@ I keep up with the AI state of the art and apply **GPU-accelerated computing** w
 ### Molinete-AI
 `Python · Rust`
 
-Transformer built from scratch in Rust — efficient tensor operations and deep learning architectures without frameworks. Presented at the *Medellín IA community* at EPAM Medellín.
+Transformer built from scratch in Rust efficient tensor operations and deep learning architectures without frameworks. Presented at the *Medellín IA community* at EPAM Medellín.
 
 ![](https://img.shields.io/badge/Transformer-111?style=flat-square)
 ![](https://img.shields.io/badge/Rust-111?style=flat-square)
@@ -93,7 +93,7 @@ Transformer built from scratch in Rust — efficient tensor operations and deep 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/SudoerJteheran/ResearchAgent-DataHack2026">
+<a href="[https://github.com/SudoerJteheran/ResearchAgent-DataHack2026](https://github.com/JeroHoyos/InvestigIA)">
 <img src="https://jerohoyos.github.io/proyectos/investigia.png" height="200" alt="InvestigIA">
 </a>
 
@@ -118,7 +118,7 @@ Autonomous scientific research assistant built with LangGraph and Ollama. Fully 
 ### Analysis and Modeling of Smoking
 `Python · Jupyter`
 
-EDA and ML modeling on the Body Signals of Smoking dataset — predicting smoking habits from physiological signals.
+EDA and ML modeling on the Body Signals of Smoking dataset predicting smoking habits from physiological signals.
 
 ![](https://img.shields.io/badge/EDA-111?style=flat-square)
 ![](https://img.shields.io/badge/scikit--learn-111?style=flat-square)
