@@ -6,16 +6,6 @@
 
 ---
 
-## Who I am
-
-I'm a **Systems and Computer Engineering** student at Universidad Nacional de Colombia, obsessed with understanding problems before solving them.
-
-I work at the intersection of **statistics**, **linear algebra**, and **machine learning**. What drives me isn't just building models that work — it's understanding *why* they work and what they reveal about the problem's structure.
-
-I keep up with the AI state of the art and apply **GPU-accelerated computing** when scale demands it. Outside of code you'll find me reading, with my cats, or thinking about math.
-
----
-
 ## Projects
 
 <table>
