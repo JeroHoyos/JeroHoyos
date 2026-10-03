@@ -1,9 +1,9 @@
 <div align="center">
     <img width="300" src="./assets/cat.gif" alt="Pixel art cat"/>
     <h1>Hi, I'm Jerónimo Hoyos Botero</h1>
-    <a href="https://www.linkedin.com/in/jeronimo-hoyos-botero/"><img src="https://img.shields.io/badge/LinkedIn-21364D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://jerohoyos.github.io"><img src="https://img.shields.io/badge/Website-21364D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/></a>
-    <a href="https://aperture-systems-lab.github.io/aperture/"><img src="https://img.shields.io/badge/Aperture-21364D?style=for-the-badge&logo=github&logoColor=white" alt="Aperture"/></a>
+    <a href="https://www.linkedin.com/in/jeronimo-hoyos-botero/"><img src="https://img.shields.io/badge/%F0%9F%98%BC%20LinkedIn-21364D?style=for-the-badge" alt="LinkedIn"/></a>
+    <a href="https://jerohoyos.github.io"><img src="https://img.shields.io/badge/%F0%9F%98%B8%20Website-21364D?style=for-the-badge" alt="Website"/></a>
+    <a href="https://aperture-systems-lab.github.io/"><img src="https://img.shields.io/badge/%F0%9F%99%80%20Aperture-21364D?style=for-the-badge" alt="Aperture"/></a>
 </div>
 
 ## About me
