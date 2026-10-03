@@ -12,9 +12,10 @@ I'm a machine learning enthusiast currently studying at the Universidad Nacional
 
 ## Talks
 
-- **PyCon Colombia 2026**: Building a Transformer with Rust
-- **Python Medellín x Medellín AI**: How do neural networks work? A visual introduction
-- **Aperture Systems**: Introduction to Git and GitHub
+- **PyCon Colombia 2026**: [Building a Transformer with Rust](https://github.com/JeroHoyos/Molinete-AI)
+- **Python Medellín x Medellín AI**: [How do neural networks work? A visual introduction](https://github.com/JeroHoyos/charla-redes-neuronales)
+- **Aperture Systems**: [Introduction to Git and GitHub](https://github.com/JeroHoyos/charla-git)
+- **Aperture Systems**: [Inaugural session of the Data Science & AI research group](https://github.com/JeroHoyos/charla-inaguracion)
 
 ## Featured projects
 
@@ -24,6 +25,8 @@ I'm a machine learning enthusiast currently studying at the Universidad Nacional
 | [Sanghelios](https://github.com/JeroHoyos/Sanghelios) | Predicts blood shortages 14 days in advance and generates AI-designed donation campaigns. |
 | [InvestigIA](https://github.com/JeroHoyos/InvestigIA) | Autonomous research assistant with LangGraph and Ollama. 3rd place at DataHack 2026. |
 | [VertexRS](https://github.com/JeroHoyos/VertexRS) | A 3D software renderer written in Rust. |
+| [Efficient-Krylov-Sequence-Computation-in-GPU](https://github.com/JeroHoyos/Efficient-Krylov-Sequence-Computation-in-GPU) | Benchmarking iterative matrix multiplication for Krylov subspace generation, CPU vs GPU with CUDA. |
+| [mysql-vs-postgres-benchmark](https://github.com/JeroHoyos/mysql-vs-postgres-benchmark) | Performance comparison of MySQL and PostgreSQL on insertion and query workloads, with pandas as an in-memory reference. |
 | [CATlude](https://github.com/JeroHoyos/CATlude) | A tiny coding agent, like Claude Code, but with a cat. |
 
 ---
