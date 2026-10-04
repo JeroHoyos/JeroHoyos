@@ -14,8 +14,8 @@ I'm a machine learning enthusiast currently studying at the Universidad Nacional
 
 - **PyCon Colombia 2026**: [Building a Transformer with Rust](https://github.com/JeroHoyos/Molinete-AI)
 - **Python Medellín x Medellín AI**: [How do neural networks work? A visual introduction](https://github.com/JeroHoyos/charla-redes-neuronales)
-- **Aperture Systems**: [Introduction to Git and GitHub](https://github.com/JeroHoyos/charla-git)
-- **Aperture Systems**: [Inaugural session of the Data Science & AI research group](https://github.com/JeroHoyos/charla-inaguracion)
+- **Aperture student research group**: [Introduction to Git and GitHub](https://github.com/JeroHoyos/charla-git)
+- **Aperture student research group**: [Inaugural session of the Data Science & AI research group](https://github.com/JeroHoyos/charla-inaguracion)
 
 ## Featured projects
 
