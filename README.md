@@ -26,7 +26,7 @@ I'm a machine learning enthusiast currently studying at the Universidad Nacional
 | [InvestigIA](https://github.com/JeroHoyos/InvestigIA) | Autonomous research assistant with LangGraph and Ollama. 3rd place at DataHack 2026. |
 | [VertexRS](https://github.com/JeroHoyos/VertexRS) | A 3D software renderer written in Rust. |
 | [Efficient-Krylov-Sequence-Computation-in-GPU](https://github.com/JeroHoyos/Efficient-Krylov-Sequence-Computation-in-GPU) | Benchmarking iterative matrix multiplication for Krylov subspace generation, CPU vs GPU with CUDA. |
-| [mysql-vs-postgres-benchmark](https://github.com/JeroHoyos/mysql-vs-postgres-benchmark) | Performance comparison of MySQL and PostgreSQL on insertion and query workloads, with pandas as an in-memory reference. |
+| [mysql-vs-postgres-benchmark](https://github.com/JeroHoyos/mysql-vs-postgres-benchmark) | Performance comparison of MySQL and PostgreSQL on insertion and query workloads. |
 | [CATlude](https://github.com/JeroHoyos/CATlude) | A tiny coding agent, like Claude Code, but with a cat. |
 
 ---
