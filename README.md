@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a machine learning enthusiast currently studying at the Universidad Nacional de Colombia. I love cats, coding, and math. I sometimes give animated talks, and I coordinate Aperture, a student research group at my university.
+I'm a machine learning enthusiast currently studying at the Universidad Nacional de Colombia. I love cats, coding, and statistics. I sometimes give animated talks, and I coordinate Aperture, a student research group at my university.
 
 ## Talks
 
